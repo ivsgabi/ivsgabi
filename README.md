@@ -11,8 +11,10 @@ I am currenttly studying computer sciences at Epitech Paris (promotion 2027).
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ivsgabi&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-## Contact Me
+---
+[![](https://visitcount.itsvg.in/api?id=ivsgabi&icon=5&color=11)](https://visitcount.itsvg.in)
 
+## Contact Me
 <div align="center">
   <a href="https://discord.gg/975156932270755871">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
@@ -22,7 +24,5 @@ I am currenttly studying computer sciences at Epitech Paris (promotion 2027).
   </a>
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=ivsgabi&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
