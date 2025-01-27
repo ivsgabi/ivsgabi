@@ -1,4 +1,4 @@
-# 🌸 About Me:
+# 💭 About Me:
 I am currenttly studying computer sciences at Epitech Paris (promotion 2027).
 
 # ✨ Techical Stack:
